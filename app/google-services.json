@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470583518260",
+    "firebase_url": "https://cloudnote012.firebaseio.com",
+    "project_id": "cloudnote012",
+    "storage_bucket": "cloudnote012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470583518260:android:4802d37553c84b24",
+        "android_client_info": {
+          "package_name": "com.cloudnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470583518260-9mvfs6e47upkodsk4rablueauemp9p97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzP_87F-vizAihrIPK9odG-sSEhyWR_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470583518260-9mvfs6e47upkodsk4rablueauemp9p97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
